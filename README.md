@@ -1,3 +1,7 @@
+__hoodyn:smelli/master__ is my version os smelli, being kept up-to-date with the official version but containing also my updates that have not been merged to the official version yet.
+
+Official readme follows:
+
 <a href="https://travis-ci.org/smelli/smelli">![Build Status](https://travis-ci.org/smelli/smelli.svg?branch=master)</a> [![Coverage Status](https://coveralls.io/repos/github/smelli/smelli/badge.svg)](https://coveralls.io/github/smelli/smelli)
 
 # smelli – a global likelihood for precision constraints
