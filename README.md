@@ -1,4 +1,4 @@
-__hoodyn:smelli/master__ is my version os smelli, being kept up-to-date with the official version but containing also my updates that have not been merged to the official version yet.
+__hoodyn:smelli/master__ is an unofficial version of smelli which has been used for the study in arXiv:2210.00347.
 
 Official readme follows:
 
